@@ -1,0 +1,2 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total
+5::Mahid Tariq::WA::9.250::Carpet::275.00::2.250::2.100::618.75::577.50::110.65::1306.90
